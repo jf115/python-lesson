@@ -12,4 +12,5 @@ print(nombre.replace('x','s'))  #replace me cambia algo que está por algo nuevo
 
 #Slices: es rebanar el texto, sacar una parte del texto
 
-print(nombre[0:10]) #Me da como resultado los objetos que están en esas posiciones
+print(nombre[0:10]) #Me da como resultado los objetos que están en esas posiciones, el resultado llega a n-1, es decir, no toma la última posición
+

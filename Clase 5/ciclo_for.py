@@ -46,6 +46,5 @@ while i < len(devs):
         exp = devs[i]
     i+=1
 
-
-
 #i=0 menor_exp = 10 while i< len(devs): if devs[i]["years"] < menor_exp: menor_exp = devs[i]["years"] i += 1 print ("El desarrollador con menor experiencia tiene: " + str(menor_exp) + " año(s) de experiencia")
+

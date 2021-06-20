@@ -13,5 +13,4 @@ autos = {'autos':{'marca1':'Chevrolet','modelos':{1:'Onix',2:'Clio',3:'Tropper'}
 
 #Cuál marca tiene mas modelos
 
-#if len(autos[marca1]) >= len(autos[marca2]) and len(autos[marca3])
 print(autos['autos']['marca1'])

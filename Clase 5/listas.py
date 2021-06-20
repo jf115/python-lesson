@@ -18,8 +18,9 @@ n1=((sum(numeros1))/len(numeros1))
 n2=((sum(numeros2))/len(numeros2))
 n3=((sum(numeros3))/len(numeros3))
 n4=((sum(numeros4))/len(numeros4))
-#print(max(n1,n2,n3,n4))
+#print(max(n1,n2,n3,n4))        #forma corta
 
+#Forma larga
 if n1 >= n2 and n1 >= n3 and n1 >= n4:
     print('El promedio es ', n1)
 elif n2 >= n3 and n2 >= n4:
